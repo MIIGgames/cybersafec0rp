@@ -121,6 +121,13 @@
     transition: .5s;
 }
 
+.redes .ph-whatsapp-logo:hover {
+  background-color: #4CAF50;
+  transform: scale(1.010);
+  transition: .5s;
+  padding: 4px;
+}
+
 @media screen and (max-width:768px) {
 /* ====================== CONTATO ================= */
 .container-contato {
