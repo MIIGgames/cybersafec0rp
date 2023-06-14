@@ -56,15 +56,17 @@ main#ferramentas {
     font-size: 1.1rem;
     font-weight: 600;
     color: rgba(27, 26, 26, 0.86);
+
+    letter-spacing: 1px;
 }
 
 .banner-curso {
-    width: 40%;
+    width: 50%;
     height: 80%;
 }
 
 .banner-curso img {
-    width: 100%;
+    width: 80%;
     height: 80%;
 }
 
